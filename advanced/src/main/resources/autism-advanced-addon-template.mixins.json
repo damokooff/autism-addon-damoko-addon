@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.example.addon.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "ExampleMixin",
+    "PlayerInfoCapeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
